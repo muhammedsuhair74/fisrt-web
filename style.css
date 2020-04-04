@@ -1,0 +1,47 @@
+body,html
+{
+	width: 100%;
+	height: 100%;
+	font-family: 'Montserrat',sans-serif;
+	background: url(https://www.slashgear.com/wp-content/uploads/2020/01/main_final-1280x720.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+	font-size: 3rem;
+	color: #3181d2;	
+}
+
+
+.btn-xl
+{
+	padding: 1rem 2em;
+	border-radius: 300px;
+	background-color:#ff5722; 
+	font-weight: 700;
+	border-color:#ff5722; 
+
+}
+.btn-xl:hover{
+	background-color:#cb4920; 
+	border-color: #cb4920;
+	border-width:4px;
+}
+.buffer{
+	height: 450px;
+}
+hr{
+	max-width: 90px;
+	border-width: 3px;
+	height: 3px
+
+}
+/*hr{
+	border-color: ;
+	
+	border-top: 1px solid rgb(99, 15, 248);
+	max-width: 65px;
+	color:rgb(14, 9, 4);
+}*/
