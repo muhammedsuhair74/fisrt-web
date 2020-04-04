@@ -38,6 +38,9 @@ hr{
 	height: 3px
 
 }
+*{
+background: url(image.jpg) no-repeat center center fixed; 
+}
 /*hr{
 	border-color: ;
 	
